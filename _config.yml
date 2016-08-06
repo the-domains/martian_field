@@ -1,0 +1,14 @@
+layout_spectrum: 0.856060094665736
+typography_spectrum: 0.6003346147481352
+color:
+  brandStrength: 0.12299447343684733
+  lightness: 0.5998652840498835
+  saturation: 0.3927286299876869
+  rhythmicContrast: 0.8246761630289257
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+name: martian_field
