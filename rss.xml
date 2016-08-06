@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[a martian field]]></title>
+        <description><![CDATA[a martian field]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Aug 2016 17:59:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NASA's Next Mars Rover Progresses Toward 2020 Launch]]></title>
+            <description><![CDATA[<article><h1>NASA's Next Mars Rover Progresses Toward 2020 Launch</h1><p>After an extensive review process and passing a major development milestone, NASA is ready to proceed with final design and construction of its next Mars rover, currently targeted to launch in the summer of 2020 and arrive on the Red Planet in February 2021.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4d483999d114d087dde20c27fdd1e812/noop.jpg?input=http%3A%2F%2Fwww.nasa.gov%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fm2020-rover-cad.jpg"></article>]]></description>
+            <link>https://www.nasa.gov/press-release/nasas-next-mars-rover-progresses-toward-2020-launch</link>
+            <guid isPermaLink="false">d332b424-88bb-4950-9a73-66717ebd1cf3</guid>
+            <pubDate>Sat, 06 Aug 2016 17:59:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
